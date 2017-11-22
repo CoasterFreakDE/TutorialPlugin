@@ -1,0 +1,13 @@
+name: TutorialPlugin
+description: Unser TutorialPlugin
+version: 1.0
+author: CoasterFreak
+main: de.tutorial.main.Main
+
+commands:
+   teamspeak:
+      description: Erfahre unsere Teamspeak Adresse
+      usage: /<cmd>
+      aliases: [ts,teams,speak]
+   mobspawner:
+      description: Erstelle einen Mobspawner
